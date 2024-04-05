@@ -1,1 +1,1 @@
-# Olympics_Data_Analysis_-_Data_Visualization_Using_Azure
+# Olympics_Data_Analysis_AND_Data_Visualization_Using_Azure
